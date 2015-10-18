@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_scrolling" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context=".ScrollingActivity">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/marketplaceCaw" android:text="@string/marketplaceCaw" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/pizzaPizza" android:text="@string/pizzaPizza" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/subway" android:text="@string/subway" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/homecookedLunch" android:text="@string/homecookedLunch" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/homecookedDinner" android:text="@string/homecookedDinner" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/crocBreakfast" android:text="@string/crocBreakfast" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/crocDinner" android:text="@string/crocDinner" />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/meditteraneanGrill" android:text="@string/meditteraneanGrill" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/burgerBar" android:text="@string/burgerBar" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/dividends" android:text="@string/dividends" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/timHortons" android:text="@string/timHortons" />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/bruAlumni" android:text="@string/bruAlumni" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/bruToldo" android:text="@string/bruToldo" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/brownGoldCafe" android:text="@string/brownGoldCafe" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin" android:id="@+id/hubCEI" android:text="@string/hubCEI" />
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

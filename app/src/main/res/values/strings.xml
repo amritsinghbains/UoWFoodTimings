@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UoW Food Timings</string>
+    <string name="large_text">
+
+    </string>
+
+
+    <string name="marketplaceCaw">Market Place CAW</string>
+    <string name="pizzaPizza">Pizza Pizza</string>
+    <string name="subway">Subway</string>
+    <string name="homecookedLunch">Home Cooked Lunch</string>
+    <string name="homecookedDinner">Home Cooked Dinner</string>
+    <string name="crocBreakfast">CROC GRILL Breakfast</string>
+    <string name="crocDinner">CROC GRILL Dinner</string>
+
+    <string name="meditteraneanGrill">Meditteranean Grill</string>
+    <string name="burgerBar">Burger Bar</string>
+    <string name="dividends">DIVIDENDS ODETTE</string>
+    <string name="timHortons">Tim Hortons CAW</string>
+
+    <string name="bruAlumni">The Bru Alumni</string>
+    <string name="bruToldo">The Bro Toldo</string>
+    <string name="brownGoldCafe">Brown Gold Cafe Leddy</string>
+    <string name="hubCEI">The HUB CEI</string>
+
+
+
+
+
+    <string name="action_settings">Settings</string>
+</resources>
